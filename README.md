@@ -1,2 +1,2 @@
-# TrashRPG-T-rk-e-Versiyon-
+# TrashRPG Tr Versiyon
 (Bu TrashRPG discord robotunun bir türkçe halidir.)
