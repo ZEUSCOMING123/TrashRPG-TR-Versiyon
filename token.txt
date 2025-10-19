@@ -1,0 +1,5 @@
+Burası tokeninizi koymak için 2. Bir yol.
+
+Buraya token'inizin koyulması daha güvenlidir.
+
+Buraya token'inizi koyacaksınız. Buradaki herşeyi silip, token'inizi yapıştırın.
