@@ -53,6 +53,9 @@ async def afkcheck(ctx, member: discord.Member = None):
         return
     await ctx.send(f"Kullanıcı: {member.mention} AFK durumu: {afk}")
 
+#  Aşağıdaki sistem'in kullanılabilmesi için 2 yöntem vardır;
+#  1. bot.run(token) yerindeki token'i botunuzun tokeni ile değiştirebilirsiniz.
+#  2. token.txt'e koyup, kodu daha da güvenli yapabilirsiniz. (Önerilir.)
 
 with open("token.txt", "r") as f:
     token = f.read().strip()
